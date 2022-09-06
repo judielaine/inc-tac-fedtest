@@ -1,6 +1,6 @@
 # SDP-EX01
 
-_Put [deployment statement](https://kantarainitiative.github.io/SAMLprofiles/saml2int.html) here; see [Deployment statements to test csv file](../../deployment-statements-to-test.csv)_ Example deployments must display the same organization name on the website's "Example" page to authenticated users as is in the metadata. (Note artificial example where we pretend both IdPs and SPs have a page that shows the respective SPs or IdPs involved in the authN flow. Purely artificial example.)
+_Put [deployment statement](https://kantarainitiative.github.io/SAMLprofiles/saml2int.html) here; see [Deployment statements to test csv file](../../test-specifications/deployment-statements-to-test.csv)_ Example deployments must display the same organization name on the website's "Example" page to authenticated users as is in the metadata. (Note artificial example where we pretend both IdPs and SPs have a page that shows the respective SPs or IdPs involved in the authN flow. Purely artificial example.)
 
 ## Summary of test
 

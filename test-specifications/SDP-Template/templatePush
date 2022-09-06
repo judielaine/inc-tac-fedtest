@@ -1,0 +1,4 @@
+# Using the csv file, 
+# * make a directory for each statement;
+# * push a template into each directory:
+#   * line one an md title {csvName}
